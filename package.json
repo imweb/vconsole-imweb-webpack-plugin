@@ -1,0 +1,30 @@
+{
+  "name": "vconsole-imweb-webpack-plugin",
+  "version": "1.0.0",
+  "description": "webpack plugin for vconsole tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imweb/vconsole-imweb-webpack-plugin.git"
+  },
+  "keywords": [
+    "vconsole",
+    "imweb",
+    "webpack",
+    "plugin"
+  ],
+  "author": "long",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imweb/vconsole-imweb-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/imweb/vconsole-imweb-webpack-plugin#readme",
+  "dependencies": {
+    "vconsole": "^2.5.2",
+    "vconsole-elements": "^1.0.2",
+    "vconsole-resources": "^1.0.0"
+  }
+}
